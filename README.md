@@ -7,7 +7,7 @@ I am currently pursuing a **B.Tech in Computer Science Engineering (CSE)** with 
 
 - 💻 **Tech Stack**: Python, AI, Machine Learning, Web Development, Data Structures & Algorithms.
 - 🌱 **Currently Learning**: Advanced Python, AI/ML algorithms, and Web Development.
-- 🎓 **CGPA**: 9.1 (as of the latest semester).
+- 🎓 **CGPA**: 8.62 (as of the latest semester).
 - 🏠 **Location**: Aligarh, Uttar Pradesh, India.
 
 ## 🚀 My Interests:
